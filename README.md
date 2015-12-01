@@ -4,14 +4,21 @@ A survey for Autonomous Driving Level 1
 Slef-parking Mission
 
 前処理：    
-  視認性向上
-  認識前処理
-  キャリブレーション  // (Real-time Calibration)
+
+	視認性向上
+  	認識前処理
+  	キャリブレーション  // (Real-time Calibration)
 
 周囲情報センシング：
+
 	周辺路面情報：
 		全周囲レーン検知
-		前方レーン検知  //(Lane Detection)
+		前方レーン検知  //(Lane Detection)=====================================
+			Review of Lane Detection and Tracking Algorithms In Advanced Driver Assistance System
+			airccse.org/journal/jcsit/7415ijcsit06.pdf
+			---------------------------------------------------------------
+			
+			
 		駐車枠認識
 		路面認識・立体物認識  //(Road Region Detection)
 		（交差点認識）
