@@ -17,6 +17,10 @@ Slef-parking Mission
 			Review of Lane Detection and Tracking Algorithms In Advanced Driver Assistance System
 			airccse.org/journal/jcsit/7415ijcsit06.pdf
 			---------------------------------------------------------------
+			[2014]Adaptive regions of interest based on HSV histograms for lane marks detection
+			http://www98.griffith.edu.au/dspace/bitstream/handle/10072/61725/91721_1.pdf?sequence=1
+			---------------------------------------------------------------
+			
 			
 			
 		駐車枠認識
