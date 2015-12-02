@@ -20,6 +20,30 @@ Slef-parking Mission
 			[2014]Adaptive regions of interest based on HSV histograms for lane marks detection
 			http://www98.griffith.edu.au/dspace/bitstream/handle/10072/61725/91721_1.pdf?sequence=1
 			---------------------------------------------------------------
+			[2014]Multiple Lane Boundary Detection Using A Combination of Low-Level. Image Features
+			http://www.researchgate.net/publication/272148332_Multiple_lane_boundary_detection_using_a_combination_of_low-                         level_image_features
+			---------------------------------------------------------------
+			[2014]Robust lane detection and tracking based on novel feature extractionand lane categorization
+			http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202014/papers/p8179-ozgunalp.pdf
+			---------------------------------------------------------------
+			[2013]An Efficient Lane Detection Algorithm For Lane Departure Detection
+			http://dspace.kaist.ac.kr/bitstream/10203/188028/1/79112.pdf
+			---------------------------------------------------------------
+			[2013]Gradient-enhancing conversion for illumination-robust lanedetection
+			**
+			---------------------------------------------------------------
+			[2013]Annealed Particle Filter Algorithm Used for Lane Detection and Tracking
+			http://www.joace.org/uploadfile/2013/0506/20130506040205524.pdf
+			---------------------------------------------------------------
+			[2013]Stochastic Lane Shape Estimation Using Local Image Descriptors
+			http://www.dpi.physik.uni-goettingen.de/cns/modules/BibtexModule/uploads/PDF/liuwoergoettermarkelic2012.pdf
+			---------------------------------------------------------------
+			
+			---------------------------------------------------------------
+			---------------------------------------------------------------
+			---------------------------------------------------------------
+			---------------------------------------------------------------
+			
 			
 			
 			
