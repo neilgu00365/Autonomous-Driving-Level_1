@@ -38,12 +38,24 @@ Slef-parking Mission
 			[2013]Stochastic Lane Shape Estimation Using Local Image Descriptors
 			http://www.dpi.physik.uni-goettingen.de/cns/modules/BibtexModule/uploads/PDF/liuwoergoettermarkelic2012.pdf
 			---------------------------------------------------------------
-			
+			[2013]Novel boundary　determination algorithm for lane detection
+			http://140.121.135.36/publications/Novel%20Boundary%20Determination%20Algorithm%20.pdf
+			---------------------------------------------------------------
+			[2013]Real-time detection and classification of road lane markings
+			http://sibgrapi.sid.inpe.br/rep/sid.inpe.br/sibgrapi/2013/07.05.14.27?mirror=sid.inpe.br/banon/2001/03.30.15.3 			8.24&metadatarepository=sid.inpe.br/sibgrapi/2013/07.05.14.27.43
+			---------------------------------------------------------------
+			[2011]Lane shape estimation using a ́partitioned particle filter for autonomous driving
+			http://markelic.de/professional/Documents/LiuPapers/icra2011.pdf
+			---------------------------------------------------------------
+			[2011]Polar randomized hough transform for lane detection using loose constraints of parallel lines
+			http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202011/pdfs/0001037.pdf
+			---------------------------------------------------------------
+			[2012]A Learning Approach Towards Detection and Tracking of Lane Markings
+			http://www.umiacs.umd.edu/~raghuram/Publications/2012_ITS_LaneDetection.pdf
 			---------------------------------------------------------------
 			---------------------------------------------------------------
 			---------------------------------------------------------------
-			---------------------------------------------------------------
-			
+			---------------------------------------------------------------			
 			
 			
 			
